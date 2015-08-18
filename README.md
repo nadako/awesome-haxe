@@ -1,10 +1,11 @@
 # awesome-haxe
 A curated list of useful Haxe links.
 
-## Documentation
+## Readings
  * [Intro](http://haxe.org/documentation/introduction/)
  * [Manual](http://haxe.org/manual/introduction.html)
  * [Standard Library API](http://api.haxe.org/)
+ * [Haxe Roundup (community news)](http://haxe.io/)
 
 ## Comparisons
 
