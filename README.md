@@ -4,7 +4,7 @@ A curated list of useful Haxe links.
 ## Documentation
  * [Intro](http://haxe.org/documentation/introduction/)
  * [Manual](http://haxe.org/manual/introduction.html)
- * [API docs](http://api.haxe.org/)
+ * [Standard Library API](http://api.haxe.org/)
 
 ## Comparisons
 
