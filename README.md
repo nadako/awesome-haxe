@@ -7,4 +7,5 @@ A curated list of useful Haxe links.
 
 ## Language design
 
+ * [Discussion about C-style for](https://groups.google.com/forum/#!topic/haxelang/mbc_hpGOcUQ)
  * [Nicolas comment about const](https://github.com/HaxeFoundation/haxe/issues/4441#issuecomment-131327893)
