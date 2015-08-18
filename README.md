@@ -1,6 +1,11 @@
 # awesome-haxe
 A curated list of useful Haxe links.
 
+## Documentation
+ * [Intro](http://haxe.org/documentation/introduction/)
+ * [Manual](http://haxe.org/manual/introduction.html)
+ * [API docs](http://api.haxe.org/)
+
 ## Comparisons
 
  * [TypeScript vs Haxe](http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/)
