@@ -1,5 +1,11 @@
-# awesome-haxe
-A curated list of useful Haxe links.
+# Awesome Haxe
+
+<img align="right" src="http://haxe.org/img/haxe-logo.svg" width="150" height="150" />
+
+A curated list of useful [Haxe](http://haxe.org/) links.
+
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities.
+
 
 ## Readings
  * [Intro](http://haxe.org/documentation/introduction/)
