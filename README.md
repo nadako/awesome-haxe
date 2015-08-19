@@ -21,3 +21,7 @@ A curated list of useful [Haxe](http://haxe.org/) links.
 
  * [Discussion about C-style for](https://groups.google.com/forum/#!topic/haxelang/mbc_hpGOcUQ)
  * [Nicolas Cannasse's comment about const](https://github.com/HaxeFoundation/haxe/issues/4441#issuecomment-131327893)
+
+## Articles
+ 
+ * [The Benefits of Transpiling to JavaScript](http://io.pellucid.com/blog/the-benefits-of-transpiling-to-javascript)
