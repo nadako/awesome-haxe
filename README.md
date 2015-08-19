@@ -25,3 +25,4 @@ A curated list of useful [Haxe](http://haxe.org/) links.
 ## Articles
  
  * [The Benefits of Transpiling to JavaScript](http://io.pellucid.com/blog/the-benefits-of-transpiling-to-javascript)
+ * [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe)
