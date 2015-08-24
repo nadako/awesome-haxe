@@ -26,3 +26,4 @@ A curated list of useful [Haxe](http://haxe.org/) links.
  
  * [The Benefits of Transpiling to JavaScript](http://io.pellucid.com/blog/the-benefits-of-transpiling-to-javascript)
  * [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe)
+ * [Build Configuration Files for HXCPP](http://matttuttle.com/2015/07/hxcpp-build-xml/)
