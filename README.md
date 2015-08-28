@@ -21,6 +21,7 @@ A curated list of useful [Haxe](http://haxe.org/) links.
 
  * [Discussion about C-style for](https://groups.google.com/forum/#!topic/haxelang/mbc_hpGOcUQ)
  * [Nicolas Cannasse's comment about const](https://github.com/HaxeFoundation/haxe/issues/4441#issuecomment-131327893)
+ * [Nicolas Cannasse's comment about named arguments](https://github.com/HaxeFoundation/haxe/issues/4507#issuecomment-135796766)
 
 ## Articles
  
