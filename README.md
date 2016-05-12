@@ -23,6 +23,10 @@ A curated list of useful [Haxe](http://haxe.org/) links.
  * [Nicolas Cannasse's comment about const](https://github.com/HaxeFoundation/haxe/issues/4441#issuecomment-131327893)
  * [Nicolas Cannasse's comment about named arguments](https://github.com/HaxeFoundation/haxe/issues/4507#issuecomment-135796766)
 
+## Frequent discussions
+
+ * [Juraj Kirchheim about why Haxe/JS compiles to a single file](https://groups.google.com/d/msg/haxelang/MJ6yb-kV64c/pGf8F5PZAgAJ)
+
 ## Articles
  
  * [The Benefits of Transpiling to JavaScript](http://io.pellucid.com/blog/the-benefits-of-transpiling-to-javascript)
