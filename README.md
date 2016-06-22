@@ -26,6 +26,7 @@ A curated list of useful [Haxe](http://haxe.org/) links.
 ## Frequent discussions
 
  * [Juraj Kirchheim about why Haxe/JS compiles to a single file](https://groups.google.com/d/msg/haxelang/MJ6yb-kV64c/pGf8F5PZAgAJ)
+ * [Juraj Kirchheim explains macro context](https://groups.google.com/forum/#!msg/haxelang/jEEh1hd81_w/fEy8m42IRtUJ)
 
 ## Articles
  
